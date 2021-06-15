@@ -1,0 +1,27 @@
+.jumbotron {
+    margin: 0px 0px 0px 0px;
+    background: #9575CD;
+    color: floralwhite;
+}
+.navbar-dark{
+    background-color: #512DA8;
+}
+.row-heading{
+    font-size: 60px;
+}
+.img-dec{
+    width: 350px;
+    height: 300px;
+    border-radius: 100px;
+}
+.prof-img{
+    margin: 90px 10px 10px 10px;
+}
+.butt{
+    margin: 10px 10px 10px 10px;
+    width: 30px;
+    height: 40px;
+}
+.card{
+    border: 0px;
+}
