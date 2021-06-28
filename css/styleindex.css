@@ -1,0 +1,14 @@
+body{
+    background-color: #3C3635;
+    background-image: url('assets/Relaxing_img');
+}
+.img1{
+    background-image: url('../assets/My_img.png');
+}
+.card{
+    border: 0px;
+    background-color: #3C3635;
+}
+.h4{
+    color: floralwhite;
+}

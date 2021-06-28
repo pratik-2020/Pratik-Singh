@@ -6,7 +6,8 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+    "lite": "lite-server",
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
   },
   "author": "Pratik Singh Thakur",
   "license": "ISC",
@@ -16,6 +17,12 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.6.0",
     "lite-server": "^2.6.1",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "rellax": "^1.12.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.2"
   }
 }
