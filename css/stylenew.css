@@ -47,5 +47,10 @@
   color: floralwhite;
 }
 .my-img {
-  width: 150px;
+  width: 300px;
+  height: 400px;
+  object-fit: fill;
+}
+.img-card{
+  
 }
